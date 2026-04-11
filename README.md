@@ -50,13 +50,12 @@ Flappy Bird, klasik arcade mekaniklerini Unity 6 motorunun gücüyle birleştire
 │   ├── Sounds/             # Ses Efektleri (SFX)
 │   ├── Animations/         # Karakter Animasyonları
 │   └── Fonts/              # UI Yazı Tipleri
-├── ProjectSettings/        # Proje ve Paket Ayarları
-└── README.md               # Proje Dökümantasyonu
+└── ProjectSettings/        # Proje ve Paket Ayarları
 ```
 
 ## 📜 Lisans
 
-Bu proje **MIT Lisansı** altında lisanslanmıştır.
+Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 ---
-⭐ Projeyi beğendiyseniz yıldız atmayı unutmayın!
+⭐ Bu projeyi geliştirmemize yardımcı olmak isterseniz yıldız atmayı ve geri bildirim vermeyi unutmayın!
