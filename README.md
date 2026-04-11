@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird - Klasik Kanat Çırpışlarının Modern Yorumu
+# 🐦 Flappy Bird
 
 Flappy Bird, klasik arcade mekaniklerini Unity 6 motorunun gücüyle birleştiren, akıcı ve bağımlılık yapıcı bir mobil/web oyun projesidir. Temiz kod yapısı ve optimize edilmiş 2D fiziği ile hem geliştiriciler hem de oyuncular için mükemmel bir deneyim sunar.
 
